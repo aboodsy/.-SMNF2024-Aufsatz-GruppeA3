@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#output files from Quarto render
+Aufsatz.pdf
+Aufsatz.html
+Aufsatz.csv
+abstract_files/Aufsatz_files
